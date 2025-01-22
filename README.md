@@ -12,7 +12,7 @@ I'm a passionate software developer with a keen interest in web development, clo
 
 ## 🛠️ Skills
 - **Languages:** JavaScript, Python, C#, HTML, CSS
-- **Frameworks:** React, Node.js, Express, Django
+- **Frameworks:**  Django
 - **Databases:** MongoDB, PostgreSQL
 - **Tools:** Git
 
